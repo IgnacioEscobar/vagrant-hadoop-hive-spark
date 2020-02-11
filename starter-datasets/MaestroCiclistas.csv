@@ -1,0 +1,701 @@
+Id|apellido|nombre|edad
+1|Lanus|Karen|28
+2|Galeano| Juan|34
+3|Mussio| Jose Maria|19
+4|Guerin| Martin Pablo|22
+5|Perro|Andres Ricardo|31
+6|Guerra|Alejandro|28
+7|Brandy| Ricardo Florindo|27
+8|Aristegui| Claudio Marcelo|51
+9|Correa|Angel Marcelo|24
+10|Barsky|Hector Daniel|41
+11|Giangreco|Guillermo Pablo|43
+12|Medriguez|Meberto Flavio|22
+13|Heker|Anibal Hector Fabian|21
+14|Perdomi| Francisco Simon|20
+15|Dorigo| Hernan Javie|46
+16|Mazza|Fabian Ruben|57
+17|Barreiro|Claudio Daniel|58
+18|Iribarren| Gustavo|26
+19|Sosa|Pablo Marcelo|21
+20|Koll|Ramiro Fabian|28
+21|Szuldman|Meberto Jurgen|34
+22|Dessal|Pablo Ariel|19
+23|Benvenuti| Marcelo Fabian|22
+24|Olaechea|Andres Esteban|31
+25|Abrigato| Fabio Adrian|28
+26|Sanseverino|Nilo Ricardo|27
+27|Fajre Festa| Gustavo Meque|51
+28|Podesta|Cristian Javier|24
+29|Scapanie|Christian|41
+30|Ovechkin| Claudio Marti|43
+31|Madadani|Vadim|22
+32|Peirocho|Lucas Matias|21
+33|Igarraza| Gustavo Alexan|20
+34|Santin|Rodrigo Javi|46
+35|Sartori|Ignacio|57
+36|Cejuela| Federico|58
+37|Suiro|Guillermo Surlos|26
+38|Delfino| Luis Adolfo|21
+39|Valiente| Juan Alberto|77
+40|Messi|Diego Sebastian|74
+41|Martin| Federico Surlos|71
+42|Filloy|Alejandro Fabian|54
+43|Oyhanart| Diego|53
+44|Buela|Juan Andres|65
+45|Picetti| German Daniel|75
+46|Viale| Alejandro Gabriel|51
+47|Piola| Jorge Luis|28
+48|Medriguez| Cristian Lucas|34
+49|Scannapieco|Meberto Adrian|19
+50|Eluen| Alejandro|22
+51|Cuenca| Henry|31
+52|Willi| Fernando Norberto|28
+53|Mesales| Guillermo|27
+54|Langon|Alejandro|51
+55|Olinhaus|Luis Felipe|24
+56|Cukauka| Martin|41
+57|Donato| Adrian Marcelo|43
+58|De La Cruz|Javier Leonardo|22
+59|Muto| Daniel Eduardo|21
+60|Garmen| Cristian Fabian|20
+61|Santillan|Claudio Gustavo|46
+62|Serizo|Gerardo Diego|57
+63|Portela|Walter Rene|58
+64|Irahola|Miguel Silvio Daniel|26
+65|Juarez| Fernando Humberto|21
+66|Mebledo|Alberto Guillermo|28
+67|Scheinin|Diego Martin|34
+68|Fuchs| Diego Sebastian|19
+69|Mebak| Javier Horacio|22
+70|Pittau| Dario German|31
+71|Vaca|Luis Gabriel Nahuel|28
+72|Cecchini| Pablo Andres|27
+73|Vittori| Christian Emiliano|51
+74|Brandan|Pablo Diego|24
+75|Massello|Gustavo|41
+76|Elrusi|German|43
+77|Aboud| Alejandro Ezequiel|22
+78|Sidecur|Juan Martin|21
+79|Elirus|Fernando Rica|20
+80|Mellano| Boris Andres|46
+81|Cortes| Surlos Adrian|57
+82|Pero| Rodrigo|58
+83|Kaplan| Gustavo Javier|26
+84|Aguilar| Martin|21
+85|Ingannis|Juan Manuel|77
+86|Medriguez|Luis Pedro|74
+87|Guaymas| Javier Matias|71
+88|Idalgo|Walter Orlando|54
+89|Salitral|Daniel Gustavo|53
+90|Moschini| Juan|65
+91|Di Giorgio|Meberto Marcelo|75
+92|Aller|Mario Andres|51
+93|Selvatici| Manuel Fernando|31
+94|Simoes|Fernando|32
+95|Micat|Fernando Matias|33
+96|Auad|German Eduar|34
+97|Sopata|Hector Luis|35
+98|Ponzoni| Jose Andres|36
+99|Barac| Alejandro Gustavo|37
+100|Orca| Nicolas Martin|38
+101|Mejas| Juan Pablo|74
+102|Dorfman|Gaston Dario|65
+103|Fano| Lisandro Marcelo|64
+104|Fino Vera|Pablo Daniel|62
+105|Islas| Maximiliano|25
+106|Samela| Bernardo|28
+107|Alvarez|Pablo Horacio|29
+108|Clarin| Javier Hernan|24
+109|Cristoff|Santiago Jos|26
+110|Horvat|Pablo Laureano|35
+111|Memandini| Gaston Maximiliano|32
+112|Pucciarelli| Claudio|31
+113|Petigrew|Jose Fabian|38
+114|Manozzo| Medolfo Rafael|40
+115|Ontiveros|Gustavo Alejandro|41
+116|Kunz|Pedro Rene Ramiro|47
+117|Tartara| Maximiliano Javier|87
+118|Ferrero| Diego|28
+119|Nicoliello| Gustavo Adolfo|34
+120|Equinoff| Pablo Fabian|19
+121|Niguerrez Reto|Marcelo Hugo|22
+122|Montenegro|Matias|31
+123|Petigrew| Diego Martin|28
+124|Tejeda| Diego Martin|27
+125|Del Rio| Mario|51
+126|Loucim| Surlos Fernando|24
+127|Luque|Javier Alejandro|41
+128|Bulla| Luis Gustavo|43
+129|Pistini|Victor Domingo|22
+130|Ziliani| Eduardo|21
+131|Navarro| Pablo|20
+132|Paparini|Meberto Surlos|46
+133|Sunda|Pablo Cristian|57
+134|Dupont|Gonzalo|58
+135|Praino| Damian Ariel|26
+136|Fino| Gabriel|21
+137|Milanesio| Ernesto Fidel|28
+138|Lopez| Mar|34
+139|Allasia| Alejandro Mario|19
+140|Costaguta| Gabriel|22
+141|Bumaschny|Pablo Nicolas|31
+142|Torrente| Pablo|28
+143|Fabbri| Miguel Angel|27
+144|Gerpe| Diego Alberto|51
+145|Torreiro| Nicolas|24
+146|Sumpos|Guillermo Alfredo|41
+147|Brignardello|Lucas|43
+148|Aon Ratto|Dar°o|22
+149|Chediex| Federico|21
+150|Barrientos|Alejandro|20
+151|Sugliolo| Pablo AndrÇs|46
+152|Estela| Marcelo Fidel|57
+153|Umaran| Adrian Ruben|58
+154|Zappa| Juan Ignacio|26
+155|Gimenez| Luciano Jorge|21
+156|Vera| Jorge Luis|77
+157|Spina|Gustavo Alberto|74
+158|Nunez| Esteban|71
+159|Rios Flores| Diego Nicolas|54
+160|Sokol|Gabriel Maximilian|53
+161|Aviani|Surlos Alberto|65
+162|Barreiro| Jose Manuel|75
+163|Suntalupo| Maria Genoveva|51
+164|Tassi| Juan Ignacio|28
+165|Salem|Diego Hernan P.;34
+166|Luna| Luis Eduardo|19
+167|Suntera| Cristian Anibal|22
+168|Barletta|Federico Martin|31
+169|Corzo|Diego Hernan|28
+170|Muscio|German Daniel|27
+171|Duarte|Fernando Esteban|51
+172|Wilson| Miguel Javier|24
+173|Ibanez| Luis Eugenio|41
+174|Birge| Juan Manuel|43
+175|Frontera| Christian Daniel|22
+176|Volante| Leandro|21
+177|Lottse|Gustavo Javier|20
+178|Alemano| Maximo Gerardo|46
+179|Israel|Hector Javier And|57
+180|Mejo| Luciano|58
+181|Ibanez|Patricio Pablo|26
+182|D onofrio| Fernando Daniel|21
+183|Surballo|Santiago|28
+184|Orza|Fernando Rafael|34
+185|Gelvez| Diego|19
+186|Britoni| Pedro sebastian|22
+187|Mantovani|Diego Alber|31
+188|Fino|Javier Marcelo|28
+189|Matteoda|Leandro Hernan|27
+190|Cuellar| Sergio Abel|51
+191|Subral|Samuel David|24
+192|Montefani|Rodrigo Matias|41
+193|Acuna| Fernando Gab|43
+194|Percia|Augusto Antonio|22
+195|Nicotra|Juan Manuel|21
+196|Suarez|Diego Andres|20
+197|Leoni|Gustavo|46
+198|Aguila| Hernan|57
+199|Masciotta| Martin Sebastian|58
+200|Exposito|Sebasti†n|26
+201|Araya|Sergio Javier|21
+202|Aguero|Pedro Martin|77
+203|Pace|Julio Cesar|74
+204|Pintos| Leonardo Sebastian|71
+205|Perin|Surlos|54
+206|Veron|Alejandro Diego|53
+207|Renkine|Ismael|65
+208|Mauri|Mariano|75
+209|Braida|Martin|51
+210|Pretrochio|Santiago Martin|31
+211|Fonseca| Gustavo|32
+212|Sosa| Ariel Meque|33
+213|Fino|Luis Martin|34
+214|Gooya| Sebastian Enrique|35
+215|Coca|German Alexis|36
+216|Tecce| Jose Manuel Alejandro|37
+217|Vessuri|Tomas Enrique|38
+218|Zabala|Matias|74
+219|Piva|Gustavo Andres|65
+220|Teruggi|Facundo|64
+221|Nirman| Maximiliano Gaston|62
+222|Siless|Francisco Jose|25
+223|Battistutta|Alberto Ariel|28
+224|Grotteschi|Surlos Dami|29
+225|Corvalan| Eduardo Ignacio|24
+226|Zanussi|Matias Pablo|26
+227|Fourcade|German Daniel|35
+228|Mazzocca|Sergio Gaston|32
+229|Muscio| Gabriel Alejandro|31
+230|Urthiague|Gabriel Nicolas|38
+231|Rios| Juan Ignacio|40
+232|Basilico| Marcos Sebastian|41
+233|Liria|Mat°as Maximiliano|47
+234|Susasola|Silvio Matias|87
+235|Faganello| Marcos Exequiel|28
+236|Franze|Fernando Surlos|34
+237|Medrano|Ernesto Surlos|19
+238|Alinez| Lisandro|22
+239|Bietti|Cristian Surlos|31
+240|Barrena|Cristian|28
+241|Vigna| Eduardo|27
+242|Nicosio|Nahuel Mariano|51
+243|Percia|Manuel Felipe|24
+244|Gobelli|Luciano Alfredo|41
+245|Hiyano|Hernan Gustavo|43
+246|Fortunato|Pablo Gaston|22
+247|Santill†n|Mariano Hernan|21
+248|Landriscina|Gabriel Fernando|20
+249|Larrimbe|Sebastian Me|46
+250|Serur| Felipe Daniel|57
+251|Parravicini| Cristhian|58
+252|Chebaia|Surlos Alberto|26
+253|Vera| Bernardo Maria|21
+254|Nardelli|Sergio Augusto|28
+255|Testi|Matias|34
+256|Viglio|Andres Adolfo|19
+257|Azcuy|Juan Ismael|22
+258|Brun|Gonzalo|31
+259|Ontivero| Adrian Dario|28
+260|Zeballos| Lucas Eugenio|27
+261|Mendoza|Sebastian|51
+262|Sagnovihs| Gustavo Ariel|24
+263|Miranda|Jorge|41
+264|Muir| Christian Gustavo|43
+265|D'Onofrio|Pablo|22
+266|Vicens|Ariel Eugenio|21
+267|Medrano| Alexis|20
+268|Willi| Simon|46
+269|Urban| Gustavo|57
+270|Gimenez| Hernan|58
+271|Serizo Sunova|Daniel Alejandro|26
+272|Liceaga|Surlos Sebastia|21
+273|Barcelo|Mariano|77
+274|Gilmanich|Facundo Manuel|74
+275|Peroni|Manuel|71
+276|Munoz|Juan Antonio|54
+277|Tribino|Sebastian Matias|53
+278|Aldama|Martin Mariano|65
+279|Susais|Juan Ignacio|75
+280|Surrera|Ignacio Agustin|51
+281|Franco|Franco Cesar|28
+282|Franceschini|Pablo Andres|34
+283|Grillo|Marcelo|19
+284|Sobral|Silvio Ariel|22
+285|Muscio| German Eduardo|31
+286|Aguirre|Leandro|28
+287|De Leone|AndrÇs Gustavo|27
+288|Bordon|Damian Gustavo|51
+289|Moran|Rafael Ernesto|24
+290|Elizalde| Luis Esteban|41
+291|Mallo| Marcos|43
+292|Izco|Ariel Alejandro|22
+293|Montenegro| Damian|21
+294|Barrinuevo|Francisco Miguel|20
+295|Zunino|Jorge Nicolas|46
+296|Butti|Ignacio|57
+297|Fuentes|Diego Sebastian|58
+298|Grottoli|Gaston Emilio|26
+299|Nill| Francisco|21
+300|Mercol| Matias|28
+301|Manoni|Mauricio|34
+302|Cervone|Juan Manuel|19
+303|Menghini| Rodrigo|22
+304|Durante|Matias Julian|31
+305|Lopez|Marcelo Fernando|28
+306|Echeverria| Surlos Ezequiel|27
+307|Alessandria| Juan Franco|51
+308|Olmos|Marcos|24
+309|Mey|Lucas Federico|41
+310|Molina|Lucas Javier|43
+311|Polaco|Gonzalo Javier|22
+312|Ebel| Guillermo Daniel|21
+313|Irahola| Leandro|20
+314|Bergna|Mauricio Alejandro|46
+315|Benitez| Franco German|57
+316|Quinones| Daniel Eduardo|58
+317|Keychian| Victor Manuel|26
+318|Btesh| Ariel Nazareno|21
+319|Siniscalchi| David|77
+320|Surradori| Sebastian Guiller|74
+321|Zalazar| Maximiliano Gaston|71
+322|Basabilbaso| Mariano Javier|54
+323|Gambino|Luis Federico|53
+324|Percia| Francisco Ariel|65
+325|Pissano|Juan Ignacio|75
+326|Marmol|Damian  Ariel|51
+327|Ruben| Julian Ignacio|31
+328|Sufferata|Luciano Martin|32
+329|Sasisi| Pablo|33
+330|Perazzo|Gast¢n Alfred|34
+331|Guzman|Mart°n Medolfo|35
+332|Delfino| Juan Marcelo|36
+333|Rinioni| Fernando Ariel|37
+334|Caqui| Angel Jose|38
+335|Mosquera|Damian Alejandro Ja|74
+336|Villanueva|Nicolas|65
+337|Troncoso|Gonzalo Enrique|64
+338|Aldunate|Eduardo Pablo|62
+339|Morales|Hern†n Surlos|25
+340|Cuchinotta| Diego Ariel|28
+341|Vassallo|Juan Manuel|29
+342|Mangini|Mariano|24
+343|Lambolay| Franco|26
+344|Sustro Olinhaus| Marcos Santiago|35
+345|Miranda Gandara|Julian Enrique|32
+346|Bava| Fernando Gonz|31
+347|Pecorena| Gerardo Alberto|38
+348|Infante|Diego Luis|40
+349|Quintana| Amilcar Javier|41
+350|Massigoge| Facundo Edelmar|47
+351|Montes|Matias|87
+352|Dinelli|Julian Maria|28
+353|Cerutti|Federico|34
+354|Suro|Julian|19
+355|Surdozo| Diego|22
+356|Salamone|Diego|31
+357|Llanos|Pablo Emilio|28
+358|Meca| Hugo Daniel|27
+359|Heguy| Agustin Oscar|51
+360|Peppino|Emilio Sebastian|24
+361|Perofalo|Martin Cesar|41
+362|Marras| Sebastian|43
+363|Espineira|Rodrigo Hernan|22
+364|Beniztor|Diego Luis|21
+365|Paolasso|Manuel|20
+366|Simoncini| Hernan|46
+367|Irusta|Germ†n Andres|57
+368|Maldonado| Raul Alejandro|58
+369|Zottola Pareja| Juan Esteban|26
+370|Tenconi Miranda|Darwin Rodrigo|21
+371|Supra| Lucas Pablo|28
+372|Olza| Bernardo Ruben|34
+373|Buricchi| Christian Leonardo|19
+374|Tanzi|Marcos|22
+375|Basabilbaso|Diego Martin|31
+376|Luj†n| Adrian Andres|28
+377|Meldan|Elvio Marino|27
+378|Fogelman| Matias Maximiliano|51
+379|Mamani|Dario Martin|24
+380|Inoscenti|Gabriel|41
+381|Ginaca| Andres Mariano|43
+382|Johnson| Gabriel|22
+383|Nunzio|Martin Patricio|21
+384|Ojeda|Ariel Demi†n|20
+385|Del Sumpillo|Diego Armando|46
+386|Peray| Francisco|57
+387|Del Soldato|Joel Cristian|58
+388|Beltran|Juan Sebastian Gui|26
+389|Baldi| Julian Pablo|21
+390|Miranda|Adalberto Matias|77
+391|Lees| Luis Felipe|74
+392|Fino| Jaime Antonio|71
+393|Folgar|Pablo Ezequiel|54
+394|Cruz|Pablo Daniel|53
+395|Berra| Facundo Nahuel|65
+396|Arostegui| Nicolas|75
+397|Giro| Federico|51
+398|Escobar|Juan Ignacio|28
+399|Colque|Andres Pablo|34
+400|Alonso| Juan Surlos|19
+401|Perdella|Nicolas|22
+402|Diaz|Javier AndrÇs|31
+403|Aguilera|Joaquin Ariel|28
+404|Garmen| Pablo Gaston|27
+405|Buquino| Jorge Emilio|51
+406|Paganelli| Federico|24
+407|Ceballos| Jorge Luis|41
+408|Heredia|Nicol†s|43
+409|Loza| Mauricio|22
+410|Surreras|Rodrigo Oscar|21
+411|Dubrez|Guillermo Ariel|20
+412|Pierini|Luis Anibal|46
+413|Musse| Juan Franco|57
+414|Ayarde| Gonzalo Ariel|58
+415|Fraguela|Adrian Ernesto|26
+416|Janzen| Juan Francisco|21
+417|Benitez|Alejandro|28
+418|Garmen|Gaston Federico|34
+419|Benko| Nicolas|19
+420|Silva|Alejandro Ladislao|22
+421|Estruga|Diego Fernando|31
+422|Albornoz|Tomas|28
+423|Neuman|Sumilo Alberto|27
+424|Sarlinga| Surlos Moises|51
+425|Michref| Diego Mart°n|24
+426|Domingo| Francisco Jose|41
+427|Memero|Rodrigo Ezequiel|43
+428|Gastaldi|Mat°as Orlando|22
+429|Gaya|Mariano Ezequiel|21
+430|Bogado| Juan Manuel|20
+431|Svoboda|Juan Pablo|46
+432|Pi Dote|Hugo Sebastian|57
+433|Vidal|Guillermo Enrique|58
+434|Masotti| Ezequiel Guillermo|26
+435|Ganim| Leandro Agustin|21
+436|Munoz|Nicolas Eduardo|77
+437|D ÔEsposito|Juan Jose|74
+438|Gorelik| Juan Gabriel|71
+439|Mendoza|Gaston Marcelo|54
+440|Ferraresi| Surlos Matias|53
+441|Corrales| Manuel|65
+442|Limori| Manuel|75
+443|Surzoglio| Antonio Marcelo|51
+444|Salustiani| Meberto Efrain|31
+445|Suttaneo| David Aniba|32
+446|Scher|Ariel Andres|33
+447|Cionchi| Javier|34
+448|Sorribas| Juan Ignacio|35
+449|Belvedere|Gustavo Emanuel|36
+450|Del Fallo|Emiliano Ariel|37
+451|Suvina| Federico|38
+452|Valenzuela| Ignacio|74
+453|Di Bella| Santiago|65
+454|Lioy| Martin Salvador|64
+455|Ferrari|Mauro Esteban|62
+456|Martinovic|Federico Pablo|25
+457|Suivano| Andres|28
+458|Serizo|Juan Pablo|29
+459|Iacovino|Claudio Cesar|24
+460|Peranzola|Pablo Jorge|26
+461|Tarzian| Pablo|35
+462|Riedel|Jorge|32
+463|Artaza|Marco Antonio|31
+464|Nafissi|Sebastian Martin|38
+465|Acevedo|Leandro Alfredo|40
+466|Lomazzi|Leonardo Javier|41
+467|Micchia| Lautaro|47
+468|Brizuela| Javier|87
+469|Sulderon|Diego Sebas|28
+470|Ardiles|Jose Andres|34
+471|Rivera|Cesar Gabriel|19
+472|Barros|Mariano|22
+473|Bonardi|Diego German|31
+474|D°az| Mariano|28
+475|Toroza|Mauricio AndrÇs|27
+476|Mesales| Eduardo Maximo|51
+477|Filipponi|Benjamin|24
+478|Torres|Elias Ismael|41
+479|Simionatto| Fernando Maximo|43
+480|Supello| Renzo|22
+481|Fino| Mauro Daniel|21
+482|Prozapas| Sebastian Rafael|20
+483|Lerda|Javier|46
+484|Retamozo| Diego|57
+485|Amy|Diego|58
+486|Aguilar| Gervasio|26
+487|Trossero|Leandro Andres|21
+488|Medriguez Syh|Dario Daniel|28
+489|Serizo|Alejandro|34
+490|Soria|Adrian Osiris|19
+491|Mender|Nestor Leonardo|22
+492|Ardiles|Ricardo Luis|31
+493|Ocanto| Pablo|28
+494|Huerta|Victor Jose|27
+495|Zuleaga|Surlos Antonio|51
+496|Cornejo|Pablo Ariel|24
+497|Parodi|Lucas Martin|41
+498|Tello|Claudio Daniel|43
+499|Alvariz|Diego Armando|22
+500|Riquelme| Federico|21
+501|Danni|Jose Victor Antonio|20
+502|Boaglio| Julio Cesar|46
+503|Kim|Mario Guillermo|57
+504|Malanij|Marcos German|58
+505|Moreno| Diego|26
+506|Copello| Alejandro Martin|21
+507|Torres|Agustin|77
+508|Quichilof|Marcos Agustin|74
+509|De Santis| Juan Hernan|71
+510|Saenz|Emiliano Sulixto|54
+511|Trello| Juan Ignacio|53
+512|Martello| Diego Andres|65
+513|SegÅino|Nicolas|75
+514|Muscio| Fernando Gabriel|51
+515|Diaz|Cristian Daniel|28
+516|Thiebaut|Marcos Martin|34
+517|Vazquez|Hernan Pablo|19
+518|Cueva|Ariel Alejandro|22
+519|Medaglia|Gustavo Alfredo|31
+520|Doberman|German Dario|28
+521|Sanmarco|Diego Adrian|27
+522|Curotto|Francisco Jose|51
+523|Pistrini| Surlos|24
+524|Ramovecchi| Surlos Patricio|41
+525|Grimberg|Hernan|43
+526|Galvez|Sebastian Emilio|22
+527|Turina| Damian Alberto|21
+528|Fabris|Martin|20
+529|Peirone|Mauro Mateo|46
+530|Lamborgini|Gabriel Alejandro|57
+531|Jerusal|Sebastian Eduardo|58
+532|Quartieri|Martin Sergio|26
+533|reynal|Nicolas|21
+534|Percia|Santiago|28
+535|Nievas|Gonzalo|34
+536|Leguizamon|Laureano|19
+537|Mela|Cesar Fabi†n|22
+538|Iriarte|Ricardo Antonio|31
+539|Azar|Alberico Gaston|28
+540|Alanis|Juan Jose|27
+541|Patoruzu|Luciano Dar°o|51
+542|Matienzo|Alejandro Manuel|24
+543|Cirulnik|Sebastian German|41
+544|Touron|Alejandro|43
+545|Alvarez| Juan Pablo|22
+546|Rey|Santiago Daniel|21
+547|Pollero|Emilio Emanuel|20
+548|Ortmann| Emiliano|46
+549|Gallego| Sebastian|57
+550|D' Apice|Osvaldo Alfredo|58
+551|Hatserian|Juan Matias|26
+552|Sustro| Leandro Martin|21
+553|Niguerrez|Damian Anibal|77
+554|Lozano|Julio Ruben|74
+555|Revainera| Juan Santiago|71
+556|Chayle|Cristian|54
+557|Serizo| Julian Andres|53
+558|Diaz| Felipe|65
+559|Nieva|Ignacio Miguel|75
+560|Ojeda|Iv†n Surlos|51
+561|de la Fuente| Mario Andres|31
+562|Santilli|Sebastian Miguel|32
+563|Petigrew| Mariano|33
+564|Surdozo|Mauricio Jorge|34
+565|Aguirre|Rodrigo Emiliano|35
+566|Costa|Ezequiel Lucas Sebasti|36
+567|Cresseri|Karina InÇs|37
+568|Alesini| Surlos Guido|38
+569|Sumpodonico| Manuel|74
+570|Sierra| Diego Matias|65
+571|Pastor| Federico Guiller|64
+572|Queipo|Hugo Damian|62
+573|Gorla|Rodrigo Tomas|25
+574|Acevedo|Matias Marco|28
+575|Avalos|Daniel|29
+576|Suarez| Manuel Andres|24
+577|Pellettieri|German|26
+578|Broncera| Ezequiel|35
+579|Solveyra| Emilio Fernando|32
+580|Quintana|Alberto Guillermo|31
+581|Violini|Alejandro Manuel|38
+582|Ocon| Lucas|40
+583|Arribillaga| Francisco Jose|41
+584|Aguirre| Juan Francisco|47
+585|Zink|Maximiliano Medolfo|87
+586|Contaldi| Ezequiel Alejandro|28
+587|Lucca|Santiago Mauricio|34
+588|Bergonzi| Jeremias Marcos|19
+589|Larcher|Gustavo Javier|22
+590|Poggi|German Esteban|31
+591|Arjona| Gabriel Hernan|28
+592|Matoff|Miguel Angel|27
+593|Videla| Pablo Facundo|51
+594|Villordo|Gabriel|24
+595|Jaurena|Sergio Manuel|41
+596|Cellerino| Sebastian|43
+597|Turin| Jorge Nicolas|22
+598|Ferrer| Milton|21
+599|Sutullo| Jose Pablo|20
+600|Epiro|Pablo Adolfo|46
+601|Soubelet|Emiliano Martin|57
+602|Oliva|Ignacio|58
+603|Dobleno| Jose Gabriel|26
+604|Sottile|Pablo Daniel|21
+605|Ayala|Alejandro Victor|28
+606|Aguirre|Fernando|34
+607|Alfonzo|Martin|19
+608|Vallelunga|Pablo Ezequiel|22
+609|Merighi|Jeronimo Andres|31
+610|Puentes|Facundo|28
+611|Rio|Javier Ernesto|27
+612|Gil Giuliano|Rodrigo Alejandro|51
+613|Maldonado|Guillermo Rodrigo|24
+614|Macriki|Juan Pablo|41
+615|Buena| Mariano|43
+616|Barale|Manuel Joaquin|22
+617|Cejas|Juan Pablo|21
+618|Saraza|Adrian|20
+619|Zangara|Surlos Cesar|46
+620|Azpeitia| Fernando|57
+621|Galan| Eliseo Emanuel|58
+622|Pasik|Juan Sebastian|26
+623|Krzemien|Adrian Claudio|21
+624|Peralta| Juan Pedro|77
+625|Cutrera|Gerardo Luis Alberto|74
+626|Lobel| Leonardo Javier|71
+627|Monti| Pedro|54
+628|Mrad| Surlos|53
+629|Gallo|Omar|65
+630|Margaria|Javier|75
+631|Vilardi|Tomas|51
+632|Solis| Marcos Sebastian|28
+633|Vallejo| Javier Antonio|34
+634|Spallatti|Alejandro Mat°as|19
+635|D Elia|Patricio Ezequiel|22
+636|Stahl| Matias|31
+637|Escobar|Maximiliano Nicolas|28
+638|Yahni| Nahuel|27
+639|Zilli|Jose Raul|51
+640|Siandro|Miguel Angel|24
+641|Marzani| Nicolas|41
+642|Estrada| Osvaldo|43
+643|Teruzzi|Leonardo Ezequiel|22
+644|Donati|Hector Daniel|21
+645|Spak| Mariano|20
+646|Barrios| Eleazar|46
+647|Fino| Hector Daniel|57
+648|Manzotti|Juan Manuel|58
+649|Horcada|Matias Francisco Arie|26
+650|Muscio| Emiliano|21
+651|Florentin|Nicolas Hernan|28
+652|Pucci|Angel David|34
+653|Medriguez Bartel|Mariano Ezequiel|19
+654|Alvarez|Santiago|22
+655|Alegre|Damian|31
+656|Ruiz| Ricardo David|28
+657|Petigrew|Juan Pablo|27
+658|Culasso| Hector Raul|51
+659|Fino|Mauro Enrique|24
+660|Collado|Marcelo Alejandro|41
+661|Tomasino|Andres Meberto|43
+662|Joison| Eugenio Enrique|22
+663|Peray| Agustin Mariano|21
+664|Leites|Gonzalo Fabian|20
+665|Morales| Federico Martin|46
+666|Sagrario|Jorge Emiliano|57
+667|Abel| Valentin|58
+668|Lujan|Pablo Dario|26
+669|Jadra|Fernando Gabriel|21
+670|Aguilera| Daniel Hamade|77
+671|Sustano|Daniel Adrian|74
+672|Gadea| Pedro Daniel|71
+673|Mansilla|Andres|54
+674|Conde|Sebasti†n Alejandro J|53
+675|Fino|Lucas Santiago|65
+676|Villemur|Hernan|75
+677|Ramirez|Andres Bernardo|51
+678|Bustos|Mariano Javier|31
+679|Fucci|Humberto Javier|32
+680|Surdoso|Leonardo Hernan|33
+681|Valentinis|Franco Daniel|34
+682|Marini| Nestor Meberto|35
+683|Viera|Gustavo Mart°n|36
+684|Abait| Fernando Jesus|37
+685|Alvarez| Esteban Sait|38
+686|Zulberti|Facundo|74
+687|Mourelle|Tomas|65
+688|Archina|Pedro|64
+689|Passalacqua|Lucas Rodrigo|62
+690|Bosco|Santiago Jose|25
+691|Taverna| Luciano Damian|28
+692|Giovanardi|German Santiago Severi|29
+693|Constantino|Hern†n|24
+694|Rivero|Dario|26
+695|Pescio|Pablo Atahualpa|35
+696|Bugani| Pablo Andres|32
+697|Berisso| Pablo|31
+698|Di Pasquale| Anibal Nicolas|38
+699|Ybanez| Guillermo Alejand|40
+700|Cruz|Jose Luciano|41

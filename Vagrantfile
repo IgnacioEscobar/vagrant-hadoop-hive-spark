@@ -18,6 +18,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 	    v.name = "node1"
             v.customize ['modifyvm', :id, '--memory', '8192']
     end
+    config.vm.synced_folder "./starter-dataset", "/home/vagrant"
     config.vm.network "forwarded_port", guest: 8080, host: 8080
     config.vm.network "forwarded_port", guest: 8088, host: 8088
     config.vm.network "forwarded_port", guest: 9083, host: 9083
